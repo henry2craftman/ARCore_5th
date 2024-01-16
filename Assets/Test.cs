@@ -5,8 +5,8 @@ using UnityEngine.UIElements;
 
 public class Test : MonoBehaviour
 {
-    public Vector2 a;
-    public Vector2 b;
+    public Vector2 myLocation;
+    public Vector2 targetLocation;
     public float angle;
 
     // Start is called before the first frame update
@@ -18,8 +18,8 @@ public class Test : MonoBehaviour
     public void RotationTransformation()
     {
         // 내 GPS 좌표 기준, Pokemon 오브젝트의 GPS(x1, y1)를 계산
-        float x1 = (b.x - a.x) * 100000; // 0.0002 * 100000 = 2
-        float y1 = (b.y - a.y) * 100000; // 0.0011 * 100000 = 110
+        float x1 = Mathf.Abs(myLocation.x - targetLocation.x) * 100000; // 0.0002 * 100000 = 2
+        float y1 = Mathf.Abs(myLocation.y - targetLocation.y) * 100000; // 0.0011 * 100000 = 110
 
         angle *= Mathf.Deg2Rad;
 
