@@ -826,9 +826,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _altitudeOffset: 0
-  _latitude: 37.513735594724665
-  _longitude: 127.02961610510886
-  _altitude: 48.380028804377574
+  _latitude: 41.902073895713215
+  _longitude: 12.45772615350201
+  _altitude: 48.38002878212473
   _altitudeType: 0
   _anchorManager: {fileID: 0}
 --- !u!4 &428969559
@@ -1400,7 +1400,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &683091020
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1795,9 +1795,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _altitudeOffset: 0
-  _latitude: 37.51375883711775
-  _longitude: 127.03047290974652
-  _altitude: 48.38050366967735
+  _latitude: 41.902097119949396
+  _longitude: 12.45863904316845
+  _altitude: 48.38050353253943
   _altitudeType: 0
   _anchorManager: {fileID: 0}
 --- !u!4 &749205376
@@ -2134,9 +2134,9 @@ RectTransform:
   - {fileID: 54737715}
   m_Father: {fileID: 1021696529}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 350, y: -90}
   m_SizeDelta: {x: 500, y: 160}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!1 &827461619
@@ -2479,9 +2479,9 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1021696529}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 350, y: 0}
   m_SizeDelta: {x: 400, y: 60}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &1074335152
@@ -3809,9 +3809,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _altitudeOffset: 0
-  _latitude: 37.51382794688419
-  _longitude: 127.0296977703003
-  _altitude: 48.380014307627974
+  _latitude: 41.90216617794938
+  _longitude: 12.457813164383408
+  _altitude: 48.38001430163291
   _altitudeType: 0
   _anchorManager: {fileID: 0}
 --- !u!4 &1541015143
@@ -3953,12 +3953,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _originAuthority: 0
-  _latitude: 37.513903
-  _longitude: 127.029585
+  _latitude: 41.90224117425544
+  _longitude: 12.457693012305443
   _height: 0
-  _ecefX: -3050561.576823159
-  _ecefY: 4043885.788290927
-  _ecefZ: 3862788.1723442916
+  _ecefX: 4642321.363083521
+  _ecefY: 1025582.1089573012
+  _ecefZ: 4237528.351483379
   _scale: 1
 --- !u!114 &1593416710
 MonoBehaviour:
@@ -5252,9 +5252,9 @@ RectTransform:
   - {fileID: 1786118185}
   m_Father: {fileID: 1021696529}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 350, y: -320}
   m_SizeDelta: {x: 240, y: 80}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1967606262
