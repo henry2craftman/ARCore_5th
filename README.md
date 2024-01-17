@@ -1,4 +1,4 @@
-## ARCore 프로젝트란?
+## 📌 ARCore 프로젝트란?
 - ARCore의 기능들을 사용하여 기능을 구현하였습니다.
 - Face, Image, Plane, Point cloud, GPS, Compass, Geospatial API, Geospatial Creator 등 
 
@@ -16,7 +16,7 @@
 
 <br>
 
-## 프로젝트 세부내용
+## 📌 프로젝트 세부내용
 - ### Face Detection
 
 <br>
