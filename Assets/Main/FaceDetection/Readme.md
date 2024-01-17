@@ -9,7 +9,7 @@
 
 
 <h2 id="architecture">🌠 Architecture</h2>
-<img src="/Images/faceDetection.png" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="Plane Detection"></img>
+<img src="/Assets/Main/FaceDetection/architecture.png" width="30%" height="30%" title="px(픽셀) 크기 설정" alt="Plane Detection"></img>
 
 - AR Face Manager: AR Camera Manager로 부터 받은 이미지 정보에서 얼굴을 탐지
   
