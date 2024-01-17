@@ -1,5 +1,5 @@
 # Plane Detection
-<img src="/ARCore_5th/Assets/Main/FaceDetection/screenshot0.png" width="25%" height="30%" title="px(픽셀) 크기 설정" alt="FaceDetectionApp"></img>
+<img src="/ARCore_5th/Assets/Main/screenshot0.png" width="25%" height="30%" title="px(픽셀) 크기 설정" alt="screenshot0"></img>
 
 <h2 id="table-of-contents">📝 Table of Contents</h2>
 
