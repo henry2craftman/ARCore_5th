@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Samples/ARCore Extensions/1.40.0/Geospatial Sample/Scenes/Geospatial.unity
-    guid: 1ed15e9657253406185e4b2c7c5a4fc4
+    path: Assets/Main/FaceDetection/FaceDetection.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 84c6b879e005c8e4ea3491d9a70b52b4, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 38c7540f93ecd2a419029b0365a76fa9, type: 2}
